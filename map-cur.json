@@ -1,0 +1,16 @@
+{
+    "ReportName": "map-migrated-report",
+    "TimeUnit": "DAILY",
+    "Format": "Parquet",
+    "Compression": "Parquet",
+    "AdditionalSchemaElements": [
+        "RESOURCES"
+    ],
+    "S3Bucket": "wchemz-master-account-map-cur-bucket",
+    "S3Prefix": "map-cur",
+    "S3Region": "us-east-1",
+    "AdditionalArtifacts": [
+        "ATHENA"
+    ],
+    "ReportVersioning": "OVERWRITE_REPORT"
+}

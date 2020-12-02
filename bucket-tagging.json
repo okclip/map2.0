@@ -1,0 +1,16 @@
+{
+    "TagSet": [
+        {
+            "Key": "aws-migration-project-id",
+            "Value": ""
+        },
+        {
+            "Key": "map-migrated",
+            "Value": ""
+        },
+        {
+            "Key": "map-migrated-app",
+            "Value": ""
+        }
+    ]
+}
